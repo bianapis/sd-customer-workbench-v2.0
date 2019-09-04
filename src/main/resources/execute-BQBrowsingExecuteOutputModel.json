@@ -1,0 +1,10 @@
+{
+  "browsingExecuteActionTaskRecord" : {},
+  "executeResponseRecord" : {},
+  "browsingExecuteRecordReference" : "BERR753697",
+  "browsingInstanceRecord" : {
+    "customerURL" : "customerURL",
+    "bankWebsiteURL" : "bankWebsiteURL"
+  },
+  "browsingExecuteActionTaskReference" : "BEATR720096"
+}

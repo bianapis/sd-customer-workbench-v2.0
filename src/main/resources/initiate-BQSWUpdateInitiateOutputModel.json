@@ -1,0 +1,14 @@
+{
+  "customerWorkbenchOperatingSessionInstanceRecord" : {
+    "lastUpdateDateTime" : "09-22-2018",
+    "installedBankApplicationType" : "installedBankApplicationType",
+    "installedBankApplicationVersionNumber" : "installedBankApplicationVersionNumber"
+  },
+  "sWUpdateInstanceReference" : "SUIR770329",
+  "sWUpdateInstanceRecord" : {
+    "date" : "09-22-2018"
+  },
+  "sWUpdateInitiateActionRecord" : {},
+  "sWUpdateInitiateActionReference" : "SUIAR719724",
+  "sWUpdateInstanceStatus" : "sWUpdateInstanceStatus"
+}

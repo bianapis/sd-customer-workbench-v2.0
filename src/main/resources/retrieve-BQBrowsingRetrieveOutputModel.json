@@ -1,0 +1,32 @@
+{
+  "customerWorkbenchOperatingSessionInstanceRecord" : {
+    "customerWorkbenchDeviceAccessPermissions" : "customerWorkbenchDeviceAccessPermissions",
+    "lastUpdateDateTime" : "09-22-2018",
+    "customerReference" : "734382",
+    "customerWorkbenchDeviceRegistration" : "customerWorkbenchDeviceRegistration",
+    "customerWorkbenchDeviceManufacturer" : "customerWorkbenchDeviceManufacturer",
+    "customerWorkbenchDeviceOperatingSystemVersionNumber" : "customerWorkbenchDeviceOperatingSystemVersionNumber",
+    "installedBankApplicationType" : "installedBankApplicationType",
+    "installedBankApplicationVersionNumber" : "installedBankApplicationVersionNumber",
+    "customerWorkbenchDeviceType" : "customerWorkbenchDeviceType"
+  },
+  "browsingRetrieveActionTaskRecord" : {},
+  "browsingRetrieveActionTaskReference" : "BRATR705299",
+  "browsingInstanceReport" : {
+    "browsingInstanceReportParameters" : "browsingInstanceReportParameters",
+    "browsingInstanceReport" : {},
+    "browsingInstanceReportRecord" : {},
+    "browsingInstanceReportType" : "browsingInstanceReportType"
+  },
+  "browsingRetrieveActionResponse" : "browsingRetrieveActionResponse",
+  "browsingInstanceRecord" : {
+    "customerURL" : "customerURL",
+    "bankWebsiteURL" : "bankWebsiteURL"
+  },
+  "browsingInstanceAnalysis" : {
+    "browsingInstanceAnalysisRecord" : {},
+    "browsingInstanceAnalysisReportType" : "browsingInstanceAnalysisReportType",
+    "browsingInstanceAnalysisParameters" : "browsingInstanceAnalysisParameters",
+    "browsingInstanceAnalysisReport" : {}
+  }
+}

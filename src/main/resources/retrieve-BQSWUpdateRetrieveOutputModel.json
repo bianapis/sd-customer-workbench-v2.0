@@ -1,0 +1,34 @@
+{
+  "customerWorkbenchOperatingSessionInstanceRecord" : {
+    "customerWorkbenchDeviceAccessPermissions" : "customerWorkbenchDeviceAccessPermissions",
+    "lastUpdateDateTime" : "09-22-2018",
+    "customerReference" : "771271",
+    "customerWorkbenchDeviceRegistration" : "customerWorkbenchDeviceRegistration",
+    "customerWorkbenchDeviceManufacturer" : "customerWorkbenchDeviceManufacturer",
+    "customerWorkbenchDeviceOperatingSystemVersionNumber" : "customerWorkbenchDeviceOperatingSystemVersionNumber",
+    "installedBankApplicationType" : "installedBankApplicationType",
+    "installedBankApplicationVersionNumber" : "installedBankApplicationVersionNumber",
+    "customerWorkbenchDeviceType" : "customerWorkbenchDeviceType"
+  },
+  "sWUpdateInstanceRecord" : {
+    "date" : "09-22-2018",
+    "sWUpdateVersion" : "sWUpdateVersion",
+    "sWUpdateImage" : "sWUpdateImage",
+    "sWUpdateApplication" : "sWUpdateApplication"
+  },
+  "sWUpdateRetrieveActionResponse" : "sWUpdateRetrieveActionResponse",
+  "sWUpdateInstanceAnalysis" : {
+    "sWUpdateInstanceAnalysisRecord" : {},
+    "sWUpdateInstanceAnalysisParameters" : "sWUpdateInstanceAnalysisParameters",
+    "sWUpdateInstanceAnalysisReportType" : "sWUpdateInstanceAnalysisReportType",
+    "sWUpdateInstanceAnalysisReport" : {}
+  },
+  "sWUpdateRetrieveActionTaskReference" : "SURATR726872",
+  "sWUpdateRetrieveActionTaskRecord" : {},
+  "sWUpdateInstanceReport" : {
+    "sWUpdateInstanceReportParameters" : "sWUpdateInstanceReportParameters",
+    "sWUpdateInstanceReportRecord" : {},
+    "sWUpdateInstanceReport" : {},
+    "sWUpdateInstanceReportType" : "sWUpdateInstanceReportType"
+  }
+}

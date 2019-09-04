@@ -1,0 +1,39 @@
+{
+  "customerWorkbenchOperatingSessionInstanceRecord" : {
+    "customerWorkbenchDeviceAccessPermissions" : "customerWorkbenchDeviceAccessPermissions",
+    "lastUpdateDateTime" : "09-22-2018",
+    "customerReference" : "781163",
+    "customerWorkbenchDeviceRegistration" : "customerWorkbenchDeviceRegistration",
+    "customerWorkbenchDeviceManufacturer" : "customerWorkbenchDeviceManufacturer",
+    "customerWorkbenchDeviceOperatingSystemVersionNumber" : "customerWorkbenchDeviceOperatingSystemVersionNumber",
+    "installedBankApplicationType" : "installedBankApplicationType",
+    "installedBankApplicationVersionNumber" : "installedBankApplicationVersionNumber",
+    "customerWorkbenchDeviceType" : "customerWorkbenchDeviceType"
+  },
+  "productServiceAccessRetrieveActionResponse" : "productServiceAccessRetrieveActionResponse",
+  "productServiceAccessInstanceReport" : {
+    "productServiceAccessInstanceReport" : {},
+    "productServiceAccessInstanceReportParameters" : "productServiceAccessInstanceReportParameters",
+    "productServiceAccessInstanceReportRecord" : {},
+    "productServiceAccessInstanceReportType" : "productServiceAccessInstanceReportType"
+  },
+  "productServiceAccessRetrieveActionTaskReference" : "PSARATR762996",
+  "productServiceAccessRetrieveActionTaskRecord" : {},
+  "contactInstanceRecord" : {
+    "contactStartEndTime" : "09-22-2018",
+    "contactActivityLog" : "contactActivityLog"
+  },
+  "productServiceAccessInstanceAnalysis" : {
+    "productServiceAccessInstanceAnalysisReport" : {},
+    "productServiceAccessInstanceAnalysisRecord" : {},
+    "productServiceAccessInstanceAnalysisReportType" : "productServiceAccessInstanceAnalysisReportType",
+    "productServiceAccessInstanceAnalysisParameters" : "productServiceAccessInstanceAnalysisParameters"
+  },
+  "productServiceAccessInstanceRecord" : {
+    "accessStartEndTime" : "09-22-2018",
+    "customerDetailsPreferences" : "customerDetailsPreferences",
+    "customerResidentFiles" : "customerResidentFiles",
+    "productServiceMenu" : "productServiceMenu",
+    "productServiceMenuAccessLog" : "productServiceMenuAccessLog"
+  }
+}

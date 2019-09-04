@@ -1,0 +1,25 @@
+{
+  "customerWorkbenchOperatingSessionInstanceRecord" : {
+    "customerWorkbenchDeviceAccessPermissions" : "customerWorkbenchDeviceAccessPermissions",
+    "lastUpdateDateTime" : "09-22-2018",
+    "customerReference" : "789984",
+    "customerWorkbenchDeviceRegistration" : "customerWorkbenchDeviceRegistration",
+    "customerWorkbenchDeviceManufacturer" : "customerWorkbenchDeviceManufacturer",
+    "customerWorkbenchDeviceOperatingSystemVersionNumber" : "customerWorkbenchDeviceOperatingSystemVersionNumber",
+    "installedBankApplicationType" : "installedBankApplicationType",
+    "installedBankApplicationVersionNumber" : "installedBankApplicationVersionNumber",
+    "customerWorkbenchDeviceType" : "customerWorkbenchDeviceType"
+  },
+  "productServiceAccessInitiateActionRecord" : {},
+  "productServiceAccessInitiateActionReference" : "PSAIAR762130",
+  "productServiceAccessInstanceReference" : "PSAIR789089",
+  "productServiceAccessInstanceStatus" : "productServiceAccessInstanceStatus",
+  "contactInstanceRecord" : {
+    "contactStartEndTime" : "09-22-2018",
+    "contactActivityLog" : "contactActivityLog"
+  },
+  "productServiceAccessInstanceRecord" : {
+    "accessStartEndTime" : "09-22-2018",
+    "customerResidentFiles" : "customerResidentFiles"
+  }
+}

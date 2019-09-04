@@ -1,0 +1,32 @@
+{
+  "contactRetrieveActionTaskRecord" : {},
+  "customerWorkbenchOperatingSessionInstanceRecord" : {
+    "customerWorkbenchDeviceAccessPermissions" : "customerWorkbenchDeviceAccessPermissions",
+    "lastUpdateDateTime" : "09-22-2018",
+    "customerReference" : "774100",
+    "customerWorkbenchDeviceRegistration" : "customerWorkbenchDeviceRegistration",
+    "customerWorkbenchDeviceManufacturer" : "customerWorkbenchDeviceManufacturer",
+    "customerWorkbenchDeviceOperatingSystemVersionNumber" : "customerWorkbenchDeviceOperatingSystemVersionNumber",
+    "installedBankApplicationType" : "installedBankApplicationType",
+    "installedBankApplicationVersionNumber" : "installedBankApplicationVersionNumber",
+    "customerWorkbenchDeviceType" : "customerWorkbenchDeviceType"
+  },
+  "contactRetrieveActionTaskReference" : "CRATR732674",
+  "contactInstanceAnalysis" : {
+    "contactInstanceAnalysisParameters" : "contactInstanceAnalysisParameters",
+    "contactInstanceAnalysisRecord" : {},
+    "contactInstanceAnalysisReportType" : "contactInstanceAnalysisReportType",
+    "contactInstanceAnalysisReport" : {}
+  },
+  "contactRetrieveActionResponse" : "contactRetrieveActionResponse",
+  "contactInstanceRecord" : {
+    "contactStartEndTime" : "09-22-2018",
+    "contactActivityLog" : "contactActivityLog"
+  },
+  "contactInstanceReport" : {
+    "contactInstanceReportType" : "contactInstanceReportType",
+    "contactInstanceReportParameters" : "contactInstanceReportParameters",
+    "contactInstanceReportRecord" : {},
+    "contactInstanceReport" : {}
+  }
+}

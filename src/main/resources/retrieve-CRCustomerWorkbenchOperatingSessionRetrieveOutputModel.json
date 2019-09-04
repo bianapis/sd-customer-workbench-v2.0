@@ -1,0 +1,26 @@
+{
+  "customerWorkbenchOperatingSessionRetrieveActionTaskReference" : "CWOSRATR759289",
+  "customerWorkbenchOperatingSessionInstanceAnalysis" : {
+    "customerWorkbenchOperatingSessionInstanceAnalysisReportType" : "customerWorkbenchOperatingSessionInstanceAnalysisReportType",
+    "customerWorkbenchOperatingSessionInstanceAnalysisReport" : {},
+    "customerWorkbenchOperatingSessionInstanceAnalysisData" : "customerWorkbenchOperatingSessionInstanceAnalysisData"
+  },
+  "customerWorkbenchOperatingSessionInstanceRecord" : {
+    "customerWorkbenchDeviceAccessPermissions" : "customerWorkbenchDeviceAccessPermissions",
+    "lastUpdateDateTime" : "09-22-2018",
+    "customerReference" : "728779",
+    "customerWorkbenchDeviceRegistration" : "customerWorkbenchDeviceRegistration",
+    "customerWorkbenchDeviceManufacturer" : "customerWorkbenchDeviceManufacturer",
+    "customerWorkbenchDeviceOperatingSystemVersionNumber" : "customerWorkbenchDeviceOperatingSystemVersionNumber",
+    "installedBankApplicationType" : "installedBankApplicationType",
+    "installedBankApplicationVersionNumber" : "installedBankApplicationVersionNumber",
+    "customerWorkbenchDeviceType" : "customerWorkbenchDeviceType"
+  },
+  "customerWorkbenchOperatingSessionRetrieveActionResponse" : "customerWorkbenchOperatingSessionRetrieveActionResponse",
+  "customerWorkbenchOperatingSessionRetrieveActionTaskRecord" : {},
+  "customerWorkbenchOperatingSessionInstanceReportRecord" : {
+    "customerWorkbenchOperatingSessionInstanceReportData" : "customerWorkbenchOperatingSessionInstanceReportData",
+    "customerWorkbenchOperatingSessionInstanceReportType" : "customerWorkbenchOperatingSessionInstanceReportType",
+    "customerWorkbenchOperatingSessionInstanceReport" : {}
+  }
+}

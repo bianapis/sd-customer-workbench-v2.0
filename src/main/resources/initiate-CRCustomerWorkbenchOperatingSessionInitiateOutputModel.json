@@ -1,0 +1,9 @@
+{
+  "customerWorkbenchOperatingSessionInstanceRecord" : {
+    "customerWorkbenchDeviceAccessPermissions" : "customerWorkbenchDeviceAccessPermissions"
+  },
+  "customerWorkbenchOperatingSessionInstanceReference" : "CWOSIR728548",
+  "customerWorkbenchOperatingSessionInitiateActionReference" : "CWOSIAR793514",
+  "customerWorkbenchOperatingSessionInstanceStatus" : "customerWorkbenchOperatingSessionInstanceStatus",
+  "customerWorkbenchOperatingSessionInitiateActionRecord" : {}
+}

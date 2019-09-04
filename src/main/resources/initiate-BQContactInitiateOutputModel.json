@@ -1,0 +1,21 @@
+{
+  "contactInstanceStatus" : "contactInstanceStatus",
+  "customerWorkbenchOperatingSessionInstanceRecord" : {
+    "customerWorkbenchDeviceAccessPermissions" : "customerWorkbenchDeviceAccessPermissions",
+    "lastUpdateDateTime" : "09-22-2018",
+    "customerReference" : "738984",
+    "customerWorkbenchDeviceRegistration" : "customerWorkbenchDeviceRegistration",
+    "customerWorkbenchDeviceManufacturer" : "customerWorkbenchDeviceManufacturer",
+    "customerWorkbenchDeviceOperatingSystemVersionNumber" : "customerWorkbenchDeviceOperatingSystemVersionNumber",
+    "installedBankApplicationType" : "installedBankApplicationType",
+    "installedBankApplicationVersionNumber" : "installedBankApplicationVersionNumber",
+    "customerWorkbenchDeviceType" : "customerWorkbenchDeviceType"
+  },
+  "contactInstanceReference" : "CIR797593",
+  "contactInitiateActionReference" : "CIAR708929",
+  "contactInstanceRecord" : {
+    "contactStartEndTime" : "09-22-2018",
+    "contactActivityLog" : "contactActivityLog"
+  },
+  "contactInitiateActionRecord" : {}
+}

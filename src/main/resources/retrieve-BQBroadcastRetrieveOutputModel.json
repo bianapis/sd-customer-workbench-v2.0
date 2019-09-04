@@ -1,0 +1,32 @@
+{
+  "customerWorkbenchOperatingSessionInstanceRecord" : {
+    "customerWorkbenchDeviceAccessPermissions" : "customerWorkbenchDeviceAccessPermissions",
+    "lastUpdateDateTime" : "09-22-2018",
+    "customerReference" : "735209",
+    "customerWorkbenchDeviceRegistration" : "customerWorkbenchDeviceRegistration",
+    "customerWorkbenchDeviceManufacturer" : "customerWorkbenchDeviceManufacturer",
+    "customerWorkbenchDeviceOperatingSystemVersionNumber" : "customerWorkbenchDeviceOperatingSystemVersionNumber",
+    "installedBankApplicationType" : "installedBankApplicationType",
+    "installedBankApplicationVersionNumber" : "installedBankApplicationVersionNumber",
+    "customerWorkbenchDeviceType" : "customerWorkbenchDeviceType"
+  },
+  "broadcastInstanceRecord" : {
+    "customerWorkbenchBroadcastRecordDateTime" : "09-22-2018",
+    "customerWorkbenchBroadcastRecord" : {}
+  },
+  "broadcastRetrieveActionTaskReference" : "BRATR754769",
+  "broadcastRetrieveActionResponse" : "broadcastRetrieveActionResponse",
+  "broadcastInstanceAnalysis" : {
+    "broadcastInstanceAnalysisParameters" : "broadcastInstanceAnalysisParameters",
+    "broadcastInstanceAnalysisReport" : {},
+    "broadcastInstanceAnalysisRecord" : {},
+    "broadcastInstanceAnalysisReportType" : "broadcastInstanceAnalysisReportType"
+  },
+  "broadcastInstanceReport" : {
+    "broadcastInstanceReportParameters" : "broadcastInstanceReportParameters",
+    "broadcastInstanceReportRecord" : {},
+    "broadcastInstanceReportType" : "broadcastInstanceReportType",
+    "broadcastInstanceReport" : {}
+  },
+  "broadcastRetrieveActionTaskRecord" : {}
+}

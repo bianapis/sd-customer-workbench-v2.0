@@ -1,0 +1,10 @@
+{
+  "contactRequestRecordReference" : "CRRR706137",
+  "contactRequestActionTaskRecord" : {},
+  "contactInstanceRecord" : {
+    "contactStartEndTime" : "09-22-2018",
+    "contactActivityLog" : "contactActivityLog"
+  },
+  "contactRequestActionTaskReference" : "CRATR797223",
+  "requestResponseRecord" : {}
+}
